@@ -1,0 +1,120 @@
+$date
+	Thu Jul 09 14:23:36 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_nrzi_decode $end
+$var wire 1 ! d_out $end
+$var reg 1 " clk $end
+$var reg 1 # en $end
+$var reg 1 $ nrzi_in $end
+$var reg 1 % rst $end
+$scope module dut $end
+$var wire 1 " clk $end
+$var wire 1 # en $end
+$var wire 1 $ nrzi_in $end
+$var wire 1 % rst $end
+$var reg 1 ! d_out $end
+$var reg 1 & prev_nrzi $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1&
+1%
+1$
+0#
+0"
+1!
+$end
+#10000
+1"
+#20000
+0"
+#30000
+1"
+#35000
+0%
+#40000
+0"
+#50000
+1#
+1"
+#60000
+0"
+#70000
+0&
+0!
+0$
+1"
+#80000
+0"
+#90000
+1!
+1"
+#100000
+0"
+#110000
+1&
+0!
+1$
+1"
+#120000
+0"
+#130000
+0&
+0$
+1"
+#140000
+0"
+#150000
+1!
+1"
+#160000
+0"
+#170000
+1"
+#180000
+0"
+#190000
+1"
+#200000
+0"
+#210000
+1"
+#220000
+0"
+#230000
+1"
+#240000
+0"
+#250000
+1"
+#260000
+0"
+#270000
+1&
+0!
+1$
+1"
+#280000
+0"
+#290000
+0#
+1"
+#300000
+0"
+#310000
+1"
+#320000
+0"
+#330000
+1"

@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Jul 09 09:01:29 2026
+[*]
+[dumpfile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\output\tb_tx_bit_stuff.vcd"
+[dumpfile_mtime] "Thu Jul 09 08:56:44 2026"
+[dumpfile_size] 2103
+[savefile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\gtkwv\TX_BIT_STUFF.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -165 -165
+*-17.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_tx_bit_stuff.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+tb_tx_bit_stuff.clk
+tb_tx_bit_stuff.d_in
+@22
+tb_tx_bit_stuff.send_byte_lsb.data_byte[7:0]
+@25
+tb_tx_bit_stuff.dut.ones_count[2:0]
+@28
+tb_tx_bit_stuff.dut.en_in
+tb_tx_bit_stuff.dut.en_out
+tb_tx_bit_stuff.dut.d_out
+[pattern_trace] 1
+[pattern_trace] 0

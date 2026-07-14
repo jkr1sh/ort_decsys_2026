@@ -1,0 +1,80 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Jul 03 08:33:07 2026
+[*]
+[dumpfile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\output\dump.vcd"
+[dumpfile_mtime] "Fri Jul 03 08:30:03 2026"
+[dumpfile_size] 8150
+[savefile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\gtkwv\Tx_Framer_View.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -1 -1
+*-18.000000 630000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_sdlc_tx_framer.
+[treeopen] tb_sdlc_tx_framer.dut.
+[sst_width] 197
+[signals_width] 203
+[sst_expanded] 1
+[sst_vpaned_height] 330
+@28
+tb_sdlc_tx_framer.clk
+@c00022
+tb_sdlc_tx_framer.tx_data[7:0]
+@28
+(0)tb_sdlc_tx_framer.tx_data[7:0]
+(1)tb_sdlc_tx_framer.tx_data[7:0]
+(2)tb_sdlc_tx_framer.tx_data[7:0]
+(3)tb_sdlc_tx_framer.tx_data[7:0]
+(4)tb_sdlc_tx_framer.tx_data[7:0]
+(5)tb_sdlc_tx_framer.tx_data[7:0]
+(6)tb_sdlc_tx_framer.tx_data[7:0]
+(7)tb_sdlc_tx_framer.tx_data[7:0]
+@1401200
+-group_end
+@28
+tb_sdlc_tx_framer.tx_valid
+tb_sdlc_tx_framer.tx_last
+@22
+tb_sdlc_tx_framer.dut.shift_reg[7:0]
+@28
+tb_sdlc_tx_framer.tx_ready
+tb_sdlc_tx_framer.dut.is_last
+@200
+-
+@29
+tb_sdlc_tx_framer.dut.state[2:0]
+@200
+-
+@22
+tb_sdlc_tx_framer.dut.bit_cnt[3:0]
+@200
+-
+@28
+tb_sdlc_tx_framer.dut.stuffer_en_in
+tb_sdlc_tx_framer.dut.crc_en
+tb_sdlc_tx_framer.dut.stuffer_ready
+@200
+-
+@28
+tb_sdlc_tx_framer.dut.stuffer_d_in
+tb_sdlc_tx_framer.dut.stuffer_inst.en_out
+@24
+tb_sdlc_tx_framer.dut.stuffer_inst.ones_count[2:0]
+@200
+-
+@22
+tb_sdlc_tx_framer.dut.crc_inst.crc_out[15:0]
+@200
+-
+@28
+tb_sdlc_tx_framer.dut.stuffer_inst.d_out
+tb_sdlc_tx_framer.dut.crc_inst.data_bit
+@200
+-
+@28
+tb_sdlc_tx_framer.tx_en_out
+tb_sdlc_tx_framer.tx_d_out
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0

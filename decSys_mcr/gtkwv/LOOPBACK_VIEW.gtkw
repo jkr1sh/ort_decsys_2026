@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Jul 10 09:17:49 2026
+[*]
+[dumpfile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\output\tb_sdlc_loopback.vcd"
+[dumpfile_mtime] "Fri Jul 10 07:06:02 2026"
+[dumpfile_size] 15419
+[savefile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\gtkwv\LOOPBACK_VIEW.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -191 -191
+*-18.000000 440000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_sdlc_loopback.
+[treeopen] tb_sdlc_loopback.rx_framer_inst.
+[sst_width] 197
+[signals_width] 220
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+tb_sdlc_loopback.rx_framer_inst.crc_inst.clk
+@22
+tb_sdlc_loopback.tx_data[7:0]
+@c00022
+tb_sdlc_loopback.rx_data[7:0]
+@28
+(0)tb_sdlc_loopback.rx_data[7:0]
+(1)tb_sdlc_loopback.rx_data[7:0]
+(2)tb_sdlc_loopback.rx_data[7:0]
+(3)tb_sdlc_loopback.rx_data[7:0]
+(4)tb_sdlc_loopback.rx_data[7:0]
+(5)tb_sdlc_loopback.rx_data[7:0]
+(6)tb_sdlc_loopback.rx_data[7:0]
+(7)tb_sdlc_loopback.rx_data[7:0]
+@1401200
+-group_end
+@28
+tb_sdlc_loopback.rx_end_of_frame
+@29
+tb_sdlc_loopback.rx_valid
+@28
+tb_sdlc_loopback.rx_crc_error
+@22
+tb_sdlc_loopback.rx_framer_inst.crc_inst.crc_reg[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

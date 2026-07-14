@@ -1,0 +1,13 @@
+{
+  "verilog.linting.linter": "iverilog",
+  "verilog.ctags.path": "C:\\tools\\ctags\\",
+  "ctags-companion.command": "ctags --fields=+nKz --langmap=SystemVerilog:+.v.sv.svh --languages=SystemVerilog,Verilog -R .",
+  "verilog.linting.iverilog.arguments": [
+    "-g2012",
+    "-y",
+    "${workspaceFolder}/rtl",
+    "-Y",
+    ".sv"
+  ],
+  "makefile.makefilePath": ""
+}

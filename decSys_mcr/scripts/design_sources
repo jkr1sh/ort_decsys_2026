@@ -1,0 +1,7 @@
+../rtl/nrzi_encode.sv
+../rtl/nrzi_decode.sv
+../rtl/crc_ccitt_fcs.sv
+../rtl/tx_bit_stuff.sv
+../rtl/rx_bit_unstuff.sv
+../rtl/sdlc_tx_framer.sv
+../rtl/sdlc_rx_framer.sv

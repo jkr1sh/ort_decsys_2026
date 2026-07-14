@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Jul 09 08:51:48 2026
+[*]
+[dumpfile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\output\tb_nrzi_encode.vcd"
+[dumpfile_mtime] "Thu Jul 09 08:47:01 2026"
+[dumpfile_size] 2629
+[savefile] "C:\Users\J\Documents\Work\ORT\Code\decSys_mcr\gtkwv\NRZI_ENCODE_VIEW.gtkw"
+[timestart] 0
+[size] 1920 1027
+[pos] -1 -1
+*-18.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_nrzi_encode.
+[sst_width] 197
+[signals_width] 165
+[sst_expanded] 1
+[sst_vpaned_height] 303
+@28
+tb_nrzi_encode.clk
+tb_nrzi_encode.dut.en
+tb_nrzi_encode.d_in
+@22
+tb_nrzi_encode.send_byte_lsb.data_byte[7:0]
+send_byte_msb.data_byte[7:0]
+@28
+tb_nrzi_encode.dut.nrzi_out
+[pattern_trace] 1
+[pattern_trace] 0
